@@ -1,0 +1,70 @@
+# Compilação do Visual Studio
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+*.ilk
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Diretórios de dependências
+packages/
+node_modules/
+!packages/.gitkeep
+
+# Configurações de ambiente e publicação
+appsettings*.json
+secrets.json
+.env
+.env.local
+
+# Arquivos do Rider e ReSharper
+.idea/
+*.sln.iml
+
+# Diretórios do Test Explorer
+TestResults/
+__pycache__/
+
+# Publicação e deploy
+publish/
+dist/
+out/
+
+# Arquivos temporários e de log
+*.tmp
+*.log
+*.ncb
+*.aps
+*.iobj
+*.ipdb
+
+# Diretórios do NuGet
+.nupkg/
+.nuget/
+project.lock.json
+
+# Arquivos do Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+
+# Arquivos gerados pelo Cake (ferramenta de build)
+tools/
+*/CakeTools/
+
+# Arquivos do macOS e Linux que podem aparecer
+.DS_Store
+._*
+*.swp
+*.swo
+Thumbs.db
+
+# Ignorar arquivos do Docker
+docker-compose.override.yml
