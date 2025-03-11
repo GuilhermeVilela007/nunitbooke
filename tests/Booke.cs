@@ -5,7 +5,7 @@ using RestSharp;
 // namespace
 namespace resesvas;
 
-// classe
+// classe.
 
 public class Reservas
 {
