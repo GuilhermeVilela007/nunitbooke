@@ -198,3 +198,4 @@ C:\iterasys\nunitbooke\obj\Debug\net9.0\refint\nunit-booke.dll
 C:\iterasys\nunitbooke\obj\Debug\net9.0\nunit-booke.pdb
 C:\iterasys\nunitbooke\obj\Debug\net9.0\nunit-booke.genruntimeconfig.cache
 C:\iterasys\nunitbooke\obj\Debug\net9.0\ref\nunit-booke.dll
+C:\iterasys\nunitbooke\obj\Debug\net9.0\nunit-booke.sourcelink.json
